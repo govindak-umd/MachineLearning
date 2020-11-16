@@ -13,5 +13,5 @@ Author
 	Maryland
 	20740 USA
   
- All codes are solutions to Machine Learning Assignments taught at the University of Maryland, College Park.
+ All codes are solutions to Machine Learning Assignments for the ENPM808X course, taught at the University of Maryland, College Park.
   
